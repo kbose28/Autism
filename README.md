@@ -11,3 +11,4 @@ All the code for finding differentially expressed genes for autism. All the data
 #CODE: 
 
 1. farm.main.R : Main script for differential expression anaysis procedure presented in paper. 
+2. main_deseq.R : Main script for analysis using DESeq2
